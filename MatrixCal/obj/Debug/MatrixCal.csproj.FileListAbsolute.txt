@@ -1,0 +1,15 @@
+D:\DevelopSpace\ot\MatrixCal\bin\Debug\MatrixCal.exe.config
+D:\DevelopSpace\ot\MatrixCal\bin\Debug\MatrixCal.exe
+D:\DevelopSpace\ot\MatrixCal\bin\Debug\MatrixCal.pdb
+D:\DevelopSpace\ot\MatrixCal\obj\Debug\MainWindow.g.cs
+D:\DevelopSpace\ot\MatrixCal\obj\Debug\App.g.cs
+D:\DevelopSpace\ot\MatrixCal\obj\Debug\MatrixCal_MarkupCompile.cache
+D:\DevelopSpace\ot\MatrixCal\obj\Debug\MatrixCal_MarkupCompile.lref
+D:\DevelopSpace\ot\MatrixCal\obj\Debug\MainWindow.baml
+D:\DevelopSpace\ot\MatrixCal\obj\Debug\MatrixCal.g.resources
+D:\DevelopSpace\ot\MatrixCal\obj\Debug\MatrixCal.Properties.Resources.resources
+D:\DevelopSpace\ot\MatrixCal\obj\Debug\MatrixCal.csproj.GenerateResource.cache
+D:\DevelopSpace\ot\MatrixCal\obj\Debug\MatrixCal.csproj.CoreCompileInputs.cache
+D:\DevelopSpace\ot\MatrixCal\obj\Debug\MatrixCal.exe
+D:\DevelopSpace\ot\MatrixCal\obj\Debug\MatrixCal.pdb
+D:\DevelopSpace\ot\MatrixCal\obj\Debug\MatrixCal.csprojAssemblyReference.cache
